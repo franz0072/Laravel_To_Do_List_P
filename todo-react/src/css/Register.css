@@ -1,0 +1,18 @@
+.register-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+}
+
+.register-card {
+  max-width: 420px;
+  width: 100%;
+  background-color: #ffffffee;
+}
+
+.register-title {
+  color: #333;
+}

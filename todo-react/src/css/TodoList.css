@@ -1,0 +1,14 @@
+.todo-wrapper {
+  max-width: 1000px;
+}
+
+.table-custom th,
+.table-custom td {
+  vertical-align: middle;
+}
+
+.table-custom .badge {
+  font-size: 0.8rem;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
