@@ -1,0 +1,24 @@
+# Laravel
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.env.* 
+.DS_Store
+.idea
+*.log
+
+# React
+build
+.env.local
+.env.development
+.env.production
+*.log
+
+# System
+*.zip
+*.tar.gz
+*.sqlite
+*.db
+*.bak
